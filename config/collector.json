@@ -1,0 +1,25 @@
+{
+  "project_id": "threejs-social-collector",
+  "rule_file": "rule.md",
+  "spec_file": "抓取规范.md",
+  "count_file": "统计数量.md",
+  "feishu": {
+    "profile": "codex-base-writer",
+    "as": "bot",
+    "base_token": "IrTabOWBdaGN8lsK3pxctZvcnyc",
+    "table_id": "tblVeAkaABwOWtib",
+    "view_id": "vewlO8NLzm",
+    "url": "https://gcnycdr17d9v.feishu.cn/base/IrTabOWBdaGN8lsK3pxctZvcnyc?table=tblVeAkaABwOWtib&view=vewlO8NLzm"
+  },
+  "dedupe": {
+    "primary_field": "社媒链接",
+    "fallback_field": "代码仓库",
+    "remark_marker": "collector:threejs-social-collector"
+  },
+  "legacy_confirmed_written": 10,
+  "accepted_platforms": ["小红书", "B站", "X", "YouTube"],
+  "preferred_after": "2025-10-01",
+  "preferred_year": 2026,
+  "writer_mode": "single-writer-recommended",
+  "batch_size": 50
+}

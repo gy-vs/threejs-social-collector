@@ -1,0 +1,16 @@
+[
+  {
+    "案例名称": "Example Three.js Showcase",
+    "平台": "YouTube",
+    "社媒链接": "https://www.youtube.com/watch?v=example",
+    "代码仓库": "https://github.com/example/threejs-showcase",
+    "作品类型": "3D 场景",
+    "技术标签": ["Three.js", "WebGPU"],
+    "亮点说明": "由源码和媒体画面共同证明的实现亮点。",
+    "推荐程度": "推荐",
+    "核验状态": "已核验",
+    "备注": "固定 commit abc123；未部署运行；许可和第三方素材需另行核验。",
+    "质检": "通过",
+    "原因": "已实际审阅社媒画面，R1-R9 全部通过。"
+  }
+]

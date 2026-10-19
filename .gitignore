@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+*.token
+*.secret
+*-existing.ndjson
+*-after-write.ndjson
+stats/*.json
+.runtime/
