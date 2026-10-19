@@ -1,0 +1,110 @@
+{
+  "source_url": "https://gcnycdr17d9v.feishu.cn/base/WI4DbIdu4akSftsY28oc7y6lnoS?table=tbl4NZP4KqHeDZqL&view=vewlO8NLzm",
+  "checked_at": "2026-10-19",
+  "timezone": "Asia/Shanghai",
+  "identity": "bot",
+  "records_count": 76,
+  "rejected_records_count": 4,
+  "unresolved_comment_cards_count": 6,
+  "records_has_more": false,
+  "comments_has_more": false,
+  "includes_resolved_comments": false,
+  "join_method": "reply.extra.notify_extra.record matches record_id; never join by visible row number",
+  "feedback": [
+    {
+      "record_id": "reczz28PE1isnVG6",
+      "comment_id": "7698314634926755068",
+      "comment_text": "这种不太行",
+      "status": [
+        "不通过"
+      ],
+      "name": "Chili3D 浏览器 CAD 建模工作台",
+      "social_url": "[https://www.bilibili.com/video/BV1to6sBQEUJ](https://www.bilibili.com/video/BV1to6sBQEUJ)",
+      "repo_url": "[https://github.com/xiangechen/chili3d](https://github.com/xiangechen/chili3d)",
+      "category": "format_or_quality",
+      "operational_interpretation": "验收方仅说“这种不太行”，未展开技术原因；固定排除此案例当前版本。对以通用CAD功能操作为主体、缺乏独立视觉成品展示的投稿从严排除，不泛化为所有CAD技术不合格。",
+      "blocking": true
+    },
+    {
+      "record_id": "reczz28PE1isn22D",
+      "comment_id": "7698315016407092528",
+      "comment_text": "这个质量不太行",
+      "status": [
+        "不通过"
+      ],
+      "name": "史前动物互动 3D 博物馆",
+      "social_url": "[AI Agent+Three.js｜开源史前动物 3D 博物馆](https://www.bilibili.com/video/BV1CZtL6dEkz)",
+      "repo_url": "[s010s/prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum)",
+      "category": "visual_quality",
+      "operational_interpretation": "成体系的视觉完成度不足；完整展馆功能、模型切换、尺度对比和资源回收代码不能替代Showcase质量。",
+      "blocking": true
+    },
+    {
+      "record_id": "reczz28PE1islCBJ",
+      "comment_id": "7698315397807738125",
+      "comment_text": "不要这种教程类的数据",
+      "status": [],
+      "name": null,
+      "social_url": null,
+      "repo_url": null,
+      "category": "tutorial",
+      "blocking": true,
+      "operational_interpretation": "教程为主体的记录不收；准确record_id单条读取也返回record_not_found，不能猜测该记录名称或仓库。"
+    },
+    {
+      "record_id": "reczz28PE1isngue",
+      "comment_id": "7698315908078406848",
+      "comment_text": "这种根本就不是一个showcase啊",
+      "status": [
+        "不通过"
+      ],
+      "name": "QNTOY v3 · 三态粒子音画乐器",
+      "social_url": "[https://www.youtube.com/watch?v=FmvVPvnF8gk](https://www.youtube.com/watch?v=FmvVPvnF8gk)",
+      "repo_url": "[https://github.com/QSOLKCB/QNTOY](https://github.com/QSOLKCB/QNTOY)",
+      "category": "not_showcase",
+      "operational_interpretation": "三态粒子音画玩具未达到本次Showcase形态；粒子数量、状态/音频算法或运行成功不足以证明成品视觉与交互完成度。",
+      "blocking": true
+    },
+    {
+      "record_id": "reczz28PE1ismxJR",
+      "comment_id": "7698316220973485292",
+      "comment_text": "这个和12是重复的",
+      "status": [
+        "不通过"
+      ],
+      "name": "Samurai · 浏览器武士格斗",
+      "social_url": "[https://www.bilibili.com/video/av117182260446660](https://www.bilibili.com/video/av117182260446660)",
+      "repo_url": "[https://github.com/achrefelouafi/SamuraiThirdPersonTemplateThreeJS](https://github.com/achrefelouafi/SamuraiThirdPersonTemplateThreeJS)",
+      "category": "duplicate",
+      "operational_interpretation": "同一仓库、同一固定commit的不同名称和不同社媒发布；合并至原案例，不作为新增。此拒收原因不等于项目技术质量不合格。",
+      "blocking": false
+    },
+    {
+      "record_id": "reczz28OOeqyCWkG",
+      "comment_id": "7698341961245166581",
+      "comment_text": "这个case我觉得是ok的，但最好社媒链接用对应原帖子的链接，因为现在的这个视频是个合集",
+      "status": [],
+      "name": "three-avbd GPU 刚体实验",
+      "social_url": "[https://www.bilibili.com/video/BV1XcWw6XELm](https://www.bilibili.com/video/BV1XcWw6XELm)",
+      "repo_url": "[https://github.com/sbobyn/three-avbd](https://github.com/sbobyn/three-avbd)",
+      "category": "source_preference",
+      "blocking": false,
+      "operational_interpretation": "案例本身被认可；优先使用作者对应单作品原帖。不要把这条正面意见误记为质量拒收。"
+    }
+  ],
+  "duplicate_confirmation": {
+    "rejected_record_id": "reczz28PE1ismxJR",
+    "canonical_record_id": "reczz28PE1isnsrM",
+    "same_repo": "https://github.com/achrefelouafi/SamuraiThirdPersonTemplateThreeJS",
+    "same_commit": "496862cda55bfba3be6d02eec5aee3ca808a31a3"
+  },
+  "rule_risk_assessment": {
+    "could_old_rules_generate_these": true,
+    "gaps": [
+      "R5只排除普通教程练习，未明确排除教程型投稿；功能/参数说明容易伪装成质量理由。",
+      "R5缺少验收方已拒案例的固定否决索引。",
+      "R6已有仓库去重要求，但旧数据已有重复；需在实现上先查重并在写前再次刷新。",
+      "程序只能验证字段，不能替代实际成品媒体审阅；旧的“已核验/通过”标签不应直接放行。"
+    ]
+  }
+}

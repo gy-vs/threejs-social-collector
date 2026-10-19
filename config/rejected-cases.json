@@ -1,0 +1,40 @@
+{
+  "rule_version": "1.3",
+  "source": "acceptance-feedback-2026-10-19.json",
+  "cases": [
+    {
+      "name": "Chili3D 浏览器 CAD 建模工作台",
+      "repo_url": "[https://github.com/xiangechen/chili3d](https://github.com/xiangechen/chili3d)",
+      "social_url": "[https://www.bilibili.com/video/BV1to6sBQEUJ](https://www.bilibili.com/video/BV1to6sBQEUJ)",
+      "record_id": "reczz28PE1isnVG6",
+      "comment_id": "7698314634926755068",
+      "reason": "验收方仅说“这种不太行”，未展开技术原因；固定排除此案例当前版本。对以通用CAD功能操作为主体、缺乏独立视觉成品展示的投稿从严排除，不泛化为所有CAD技术不合格。"
+    },
+    {
+      "name": "史前动物互动 3D 博物馆",
+      "repo_url": "[s010s/prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum)",
+      "social_url": "[AI Agent+Three.js｜开源史前动物 3D 博物馆](https://www.bilibili.com/video/BV1CZtL6dEkz)",
+      "record_id": "reczz28PE1isn22D",
+      "comment_id": "7698315016407092528",
+      "reason": "成体系的视觉完成度不足；完整展馆功能、模型切换、尺度对比和资源回收代码不能替代Showcase质量。"
+    },
+    {
+      "name": "QNTOY v3 · 三态粒子音画乐器",
+      "repo_url": "[https://github.com/QSOLKCB/QNTOY](https://github.com/QSOLKCB/QNTOY)",
+      "social_url": "[https://www.youtube.com/watch?v=FmvVPvnF8gk](https://www.youtube.com/watch?v=FmvVPvnF8gk)",
+      "record_id": "reczz28PE1isngue",
+      "comment_id": "7698315908078406848",
+      "reason": "三态粒子音画玩具未达到本次Showcase形态；粒子数量、状态/音频算法或运行成功不足以证明成品视觉与交互完成度。"
+    },
+    {
+      "name": "A Realistic 3D Zombie Game",
+      "repo_url": "https://github.com/RohanVashisht1234/threejs-zombieshooter-game",
+      "reason": "用户在rule.md明确排除的质量负例。"
+    },
+    {
+      "name": "WildHunt",
+      "repo_url": "https://github.com/typsusan-zzz/wildhunt-fullstack",
+      "reason": "用户在rule.md明确排除的质量负例。"
+    }
+  ]
+}

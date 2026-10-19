@@ -5,7 +5,7 @@
   "description": "Three.js social showcase collection workflow with Feishu dedupe and write-count tracking",
   "type": "module",
   "scripts": {
-    "validate": "node scripts/project-validate.mjs && node scripts/validate.mjs && node --test scripts/validate.test.mjs",
+    "validate": "node scripts/project-validate.mjs && node --check scripts/feishu-sync.mjs && node --test scripts/collector.test.mjs",
     "feishu:dry-run": "node scripts/feishu-sync.mjs --input candidates.example.json --dry-run",
     "feishu:aggregate": "node scripts/feishu-sync.mjs --aggregate-only"
   },
